@@ -7,7 +7,7 @@ body {
     width: 800px;
 }
 .foto{
-    width: 28%;
+    width: 35%;
     height: auto;
 }
 .marco {
@@ -19,8 +19,8 @@ body {
 .container2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    align-items: right;
-    gap: 20px;
+    align-items: center;
+    gap: 40px;
     position: absolute;
     left: 45%;
     top: 10%;
@@ -29,7 +29,7 @@ body {
 .caja {
     display: flex;
     text-align: right;
-    justify-content: right;
+    justify-content: center;
     background: white;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
