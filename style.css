@@ -7,14 +7,21 @@ body {
     width: 800px;
 }
 .foto{
-    width: 35%;
+    width: 45%;
+    height: auto;
+    border-radius: 50%;
+}
+.containerfoto{
+    width: 45%;
     height: auto;
 }
 .marco {
     width: 40%;
+    height: auto;
     top: 10%;
     right: 55%;
     position: fixed;
+
 }
 .container2 {
     display: grid;
